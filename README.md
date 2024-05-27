@@ -1,6 +1,6 @@
 # Air-BnB-Price-Review
 
-!wallpaper(https://github.com/confilovydovy/Air-BnB-Price-Review/blob/main/Air%20bnb%20wallpaper.png)
+![Air bnb wallpaper](https://github.com/confilovydovy/Air-BnB-Price-Review/assets/7013375/7f0f09a5-86cc-491b-acda-159247b4e8c2)
 
 ### Table Of Content
 - [PROJECT INTRODUCTION](#project-introduction)
@@ -43,8 +43,12 @@ This Tables each have different fields which makes up and Table.
 
  Power bi has already automatically built a relationship as seen in the picture below
 
+![Air bnb model](https://github.com/confilovydovy/Air-BnB-Price-Review/assets/7013375/0ecb6306-f1f2-457d-9de2-31b9b74085f1)
+
  ### DATA VISUALISATION
  
+ ![Air BnB Price review](https://github.com/confilovydovy/Air-BnB-Price-Review/assets/7013375/7cc7324f-e591-492a-b2ea-53ada857e3c2)
+
  ### KEY METRICS OVERVIEW
 Based on the "AIR BnB MARKET PRICE REVIEW" dashboard, here are the key metrics for the visualization.
 
