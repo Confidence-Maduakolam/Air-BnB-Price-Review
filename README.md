@@ -1,6 +1,6 @@
 # Air-BnB-Price-Review
 
-![model](https://github.com/confilovydovy/Air-BnB-Price-Review.git)
+!wallpaper(https://github.com/confilovydovy/Air-BnB-Price-Review/blob/main/Air%20bnb%20wallpaper.png)
 
 ### Table Of Content
 - [PROJECT INTRODUCTION](#project-introduction)
