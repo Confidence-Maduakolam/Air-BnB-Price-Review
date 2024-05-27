@@ -1,4 +1,7 @@
 # Air-BnB-Price-Review
+
+![model](https://github.com/confilovydovy/Air-BnB-Price-Review.git)
+
 ### Table Of Content
 - [PROJECT INTRODUCTION](#project-introduction)
 - [DATA CLEANING AND TRANSFORMATION](#data-cleaning-and-transformation)
